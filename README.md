@@ -11,7 +11,7 @@ The following technologies have been employed in the development of this project
 The Library Book Retrieve project incorporates the following key features:
 1. Book Search: Users can search for books by entering relevant information such as book title, author name, book genre and book price. The search query is processed asynchronously using AJAX techniques, providing real-time search results without page reload.
 2. Dynamic Content Update: Upon entering search criteria, the search results are displayed dynamically on the webpage, allowing users to view relevant book details instantly.
-3. PHP AJAX: This project demonstrates the use of PHP for server-side processing of AJAX requests. PHP handles the database queries and retrieves book information based on the user's search parameters.444
+3. PHP AJAX: This project demonstrates the use of PHP for server-side processing of AJAX requests. PHP handles the database queries and retrieves book information based on the user's search parameters.
 4. XML AJAX: In addition to PHP AJAX, this project also explores XML AJAX. XML is used to structure and exchange data between the client and server, enabling efficient retrieval and display of book details.
 ## Installation
 To set up the Library Book Retrieve project on your local machine using XAMPP, follow these simplified steps:
