@@ -43,7 +43,8 @@
                         </select>
                     </div>
                 </form>
-                    <div id="searchResult"></div>
+                    <div id="searchResult"></div>\
+                    <?php //This div is replaced with search result! ?>
             </div>
         </div>
     </div>
