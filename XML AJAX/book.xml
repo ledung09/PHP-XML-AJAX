@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Harry Potter: The chamber of secret</title>
+        <author>J.K.Rowling</author>
+        <genre>fictional</genre>
+        <price>9.99</price>
+    </book>
+    <book>
+        <title>Harry Potter: The deadly hallow</title>
+        <author>J.K.Rowling</author>
+        <genre>fictional</genre>
+        <price>10.10</price>
+    </book>
+    <book>
+        <title>Calculus 1: A new start</title>
+        <author>Jame Stewart</author>
+        <genre>textbook</genre>
+        <price>23.40</price>
+    </book>
+    <book>
+        <title>Calculus 2: 2D operation</title>
+        <author>Jame Stewart</author>
+        <genre>textbook</genre>
+        <price>13.21</price>
+    </book>
+
+    <book>
+        <title>Economic: Basic economic priciple</title>
+        <author>Mankiw</author>
+        <genre>textbook</genre>
+        <price>100.63</price>
+    </book>
+    <book>
+        <title>Doraemon: Journey to the wonder land</title>
+        <author>Fujiko Fujio</author>
+        <genre>comic</genre>
+        <price>5.4</price>
+    </book>
+</library>
